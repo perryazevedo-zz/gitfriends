@@ -1,0 +1,30 @@
+{
+  "name": "gitfriends",
+  "version": "0.1.0",
+  "description": "Find your friends on GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perryazevedo/gitfriends.git"
+  },
+  "keywords": [
+    "GitHub",
+    "friends",
+    "find",
+    "friends",
+    "social",
+    "search"
+  ],
+  "author": "Perry Azevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perryazevedo/gitfriends/issues"
+  },
+  "homepage": "https://github.com/perryazevedo/gitfriends",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
