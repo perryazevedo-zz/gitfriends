@@ -1,1 +1,0 @@
-module.exports = require( './node_modules/connect-oauth-github/lib/client' );
